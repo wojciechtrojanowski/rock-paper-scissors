@@ -118,6 +118,9 @@ body main .reset:active {
   body .title {
     font-size: 0.7em;
   }
+  body main {
+    padding-top: 2em;
+  }
   body main .score {
     width: 120px;
     height: 80px;
